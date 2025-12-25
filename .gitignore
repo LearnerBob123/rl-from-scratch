@@ -5,3 +5,4 @@ runs/
 Actor Critic methods/AC2/model_pth
 Actor Critic methods/AC2/eval_videos
 *.png
+*.gif
